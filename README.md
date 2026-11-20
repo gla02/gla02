@@ -4,8 +4,6 @@ I'm a software developer with a background in **Python, automation, and software
 
 I enjoy building practical tools, exploring software architecture, and working on projects that combine different technical disciplines. I'm particularly interested in developer tooling, data processing, machine learning, LLM integrations, and simulation systems.
 
-I tend to gravitate toward projects that solve problems I've encountered myself, especially when they offer opportunities to design reusable components, experiment with new technologies, or make complex systems more accessible.
-
 ## What I build
 
 My projects often start with problems or questions I encounter personally, from improving Japanese vocabulary processing to exploring codebase analysis, machine learning, and reusable software architecture.
