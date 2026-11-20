@@ -6,31 +6,15 @@ I enjoy building practical tools, exploring software architecture, and working o
 
 I tend to gravitate toward projects that solve problems I've encountered myself, especially when they offer opportunities to design reusable components, experiment with new technologies, or make complex systems more accessible.
 
-## Projects
+## What I build
 
-### [Japanese Vocabulary Toolkit](https://github.com/gla02/japanese-vocabulary-toolkit)
-A Python CLI for processing Japanese vocabulary, validating lexical data, and generating configurable Anki decks and structured exports.
+My projects often start with problems or questions I encounter personally, from improving Japanese vocabulary processing to exploring codebase analysis, machine learning, and reusable software architecture.
 
-Built from my own Japanese-learning workflow and the need for reliable vocabulary cards without silently accepting ambiguous dictionary data.
-
-### [Codebase Indexer](https://github.com/gla02/codebase-indexer)
-A lightweight Python CLI that uses AST analysis to generate structured JSON indexes and compact, human-readable project trees.
-
-Created to make navigating and understanding larger Python codebases easier, particularly when working with unfamiliar projects or AI-assisted development.
-
-### [Task Registry](https://github.com/gla02/task-registry)
-A small Python library for registering, discovering, validating, and executing application tasks.
-
-Explores how ordinary Python functions can become reusable operations exposed through different interfaces without tightly coupling them to a particular framework.
-
-### [Probability Calibration](https://github.com/gla02/probability-calibration)
-A Python toolkit for calibrating binary classifier probabilities, evaluating prediction reliability, and integrating calibration with scikit-learn.
-
-Grew out of my interest in machine learning and the distinction between producing accurate predictions and producing trustworthy probabilities.
+I enjoy turning those ideas into practical, tested tools that others can inspect, use, and extend. You can find examples in my pinned repositories below.
 
 ## Currently working on
 
-A **local-first LLM chat application** supporting configurable inference providers, multimodal conversations, retrieval-augmented generation, and extensible developer tools.
+A private machine-learning project exploring financial time-series data, predictive modeling, and model evaluation.
 
 I'm also developing a systems-heavy real-time strategy game in Unity/C#, with a focus on simulation, modular architecture, and AI decision-making.
 
