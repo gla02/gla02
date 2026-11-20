@@ -14,9 +14,9 @@ I enjoy turning those ideas into practical, tested tools that others can inspect
 
 ## Currently working on
 
-A private machine-learning project exploring financial time-series data, predictive modeling, and model evaluation.
+A systems-heavy real-time strategy game in Unity/C#, with a focus on simulation, modular architecture, and AI decision-making.
 
-I'm also developing a systems-heavy real-time strategy game in Unity/C#, with a focus on simulation, modular architecture, and AI decision-making.
+I'm also developing a private machine-learning project exploring financial time-series data, predictive modeling, and model evaluation.
 
 ## Technologies
 
